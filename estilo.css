@@ -1,0 +1,104 @@
+body
+{
+    text-align: center;
+    background:#F4F6F4;
+}
+
+
+.imagen img
+{
+    margin-top: 100px;
+    margin-left: 300px;
+
+    width: 300px;
+}
+
+
+
+
+
+.Iniciar_sesion
+{
+    float: right;
+    width: 50%;
+    background: white;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+
+    margin-top: 100px;
+    margin-right: 300px;
+
+    width: 400px;
+    height: 300px;
+    
+}
+
+.No_tiene
+{
+    float: right;
+    background-color: white;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    margin-top: 10px;
+    margin-right: 300px;
+    width: 400px;
+    height: 80px;
+}
+
+.Enlace
+{
+    margin-right: 150px;
+    float: right;
+    width: 50%;
+}
+
+
+.Iniciar_sesion h1
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.Iniciar_sesion input
+{
+    margin: 5px;
+    padding: 10px;
+    background: #F4F6F4;
+}
+
+.Iniciar_sesion .Iniciar
+{
+    margin: 5px;
+    background: skyblue;
+    width: 35%;
+    padding: 10px;
+    border: 0px;
+}
+
+.Iniciar_sesion address a
+{
+    color: blue;
+}
+
+/* -------------------------------------------*/
+
+
+
+
+
+.bloque , .imagen
+{
+    float: left;
+}
+
+
+footer
+{
+    clear: both;
+    padding: 20px;
+}
+
+
+
